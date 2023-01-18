@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfinance_app=self.webpackChunkfinance_app||[]).push([[550],{550:function(n,e,a){a.r(e),a.d(e,{default:function(){return r}});var i,t=a(168),u=a(934).Z.div(i||(i=(0,t.Z)([""]))),c=a(184),r=function(){return(0,c.jsx)(u,{children:"Registration Page"})}}}]);
+//# sourceMappingURL=550.b6751230.chunk.js.map
